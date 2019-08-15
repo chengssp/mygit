@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "管道铺设施工的最佳方案问题2", "管道铺设施工的最佳方案问题2\管道铺设施工的最佳方案问题2.vcxproj", "{DAE4E992-67D7-4E68-8891-46EE6F893312}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAE4E992-67D7-4E68-8891-46EE6F893312}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DAE4E992-67D7-4E68-8891-46EE6F893312}.Debug|Win32.Build.0 = Debug|Win32
+		{DAE4E992-67D7-4E68-8891-46EE6F893312}.Release|Win32.ActiveCfg = Release|Win32
+		{DAE4E992-67D7-4E68-8891-46EE6F893312}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
