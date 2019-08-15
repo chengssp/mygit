@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "停车场管理问题", "停车场管理问题.vcxproj", "{2FD68105-7166-4BE9-AC47-F005CF5C38D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FD68105-7166-4BE9-AC47-F005CF5C38D1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2FD68105-7166-4BE9-AC47-F005CF5C38D1}.Debug|Win32.Build.0 = Debug|Win32
+		{2FD68105-7166-4BE9-AC47-F005CF5C38D1}.Release|Win32.ActiveCfg = Release|Win32
+		{2FD68105-7166-4BE9-AC47-F005CF5C38D1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
